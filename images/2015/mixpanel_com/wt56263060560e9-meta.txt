@@ -1,0 +1,5 @@
+url: https://mixpanel.com
+status: 200
+title: Mixpanel | Mobile Analytics
+content_height: 4685
+content_width: 1024
