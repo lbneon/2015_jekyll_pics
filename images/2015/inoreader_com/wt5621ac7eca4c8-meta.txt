@@ -1,0 +1,5 @@
+url: http://www.inoreader.com/
+status: 200
+title: Inoreader - The content reader for power users who want to save time.
+content_height: 768
+content_width: 1024

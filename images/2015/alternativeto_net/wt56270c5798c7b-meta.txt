@@ -1,0 +1,5 @@
+url: http://alternativeto.net/software/google-chrome/
+status: 200
+title: 
+content_height: 0
+content_width: 1024

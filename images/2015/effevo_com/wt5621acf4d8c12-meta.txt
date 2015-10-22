@@ -1,0 +1,5 @@
+url: https://effevo.com/
+status: 200
+title: effevo-免费、灵活、易用的团队协作工具
+content_height: 768
+content_width: 1024
