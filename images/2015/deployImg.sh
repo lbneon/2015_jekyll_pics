@@ -2,7 +2,7 @@
 
 mv ~/workspace/*.zip  .
 
-
+echo "start"
 for filename in `ls ./*.zip`
 do
     filenameZ=`basename $filename`
