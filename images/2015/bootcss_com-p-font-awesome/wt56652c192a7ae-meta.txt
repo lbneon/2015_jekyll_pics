@@ -1,0 +1,5 @@
+url: http://www.bootcss.com/p/font-awesome/
+status: 200
+title: Font Awesome, 为 Bootstrap 而创造的图标字体
+content_height: 12666
+content_width: 1024
